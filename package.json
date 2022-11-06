@@ -1,0 +1,13 @@
+{
+  "name": "npm-practice-byshimabu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "sass": "^1.56.0"
+  },
+  "scripts": {
+    "build": "sass style.scss:style.css"
+  }
+}
